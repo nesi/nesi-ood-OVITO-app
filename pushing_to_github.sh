@@ -1,9 +1,9 @@
 # For commiting to gitlab for the first time
-rm -rf .git
-git init
+#rm -rf .git
+#git init
 # upload to github
 git add .
-git commit -m 'update version of the NeSI OOD Avogadro2 App'
+git commit -m 'update version of the NeSI OOD OVITO App'
 # For commiting to github for the first time
 git branch -M main
 git remote add origin git@github.com:nesi/nesi-ood-OVITO-app.git
