@@ -1,7 +1,7 @@
 ---
 name: Ovito
-category: Specialized Applications
-sub-category: Chemistry
+category: Specialised Applications
+subcategory: Chemistry
 role: batch_connect
 description: |
   This will launch an Interactive Ovito session.
